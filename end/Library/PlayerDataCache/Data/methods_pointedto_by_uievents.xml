@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="menu">
+			<method name="ShowAchievements"/>
+			<method name="QuitGame"/>
+			<method name="PlayGame"/>
+			<method name="ShowLeaderboards"/>
+		</type>
+		<type fullname="GameController">
+			<method name="Restart"/>
+		</type>
+	</assembly>
+</linker>

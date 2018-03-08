@@ -1,0 +1,255 @@
+<aars>
+  <explodeData>
+    <aar>gpgs-plugin-support-0.9.42</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android\gpgs-plugin-support-0.9.42</path>
+    <targetAbi>armv7</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1479354+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android\play-services-ads-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-lite-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1649381+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-lite-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-lite-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android\play-services-ads-lite-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-auth-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1609377+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-auth-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-auth-base-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1749384+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-auth-base-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-base-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1769389+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-base-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1769389+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-basement-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android\play-services-basement-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-drive-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1719401+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-drive-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-games-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1529365+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-games-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-gass-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1679374+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-gass-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-gass-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android\play-services-gass-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-nearby-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1569364+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-nearby-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-tasks-11.8.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1769389+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/play-services-tasks-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-annotations-25.2.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/support-annotations-25.2.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-compat-25.2.0</aar>
+    <modificationTime>2018-01-27T19:58:04.2081405+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/support-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-core-ui-25.2.0</aar>
+    <modificationTime>2018-01-27T19:58:04.2081405+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/support-core-ui-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-core-utils-25.2.0</aar>
+    <modificationTime>2018-01-27T19:58:04.2081405+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/support-core-utils-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-fragment-25.2.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1925404+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/support-fragment-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-media-compat-25.2.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1925404+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/support-media-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-v4-25.2.0</aar>
+    <modificationTime>2018-01-27T19:58:04.1925404+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.levelextreme.therun</bundleId>
+    <path>Assets/Plugins/Android/support-v4-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
